@@ -1,0 +1,27 @@
+Karpet 
+C 204 sd 240
+
+Lantai
+C 131 sd 200
+
+Halang Rintang
+C 970 sd 985
+
+
+
+
+
+
+///// LAMA /////
+
+Karpet 
+F 220 sd 284
+C 270 sd 321
+
+Lantai
+F 173 sd 181
+C 184 sd 195
+
+Halang Rintang
+F 490 sd 549
+C 979 sd 982
